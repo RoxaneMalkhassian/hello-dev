@@ -1,1 +1,4 @@
 # Ce qu'il faut faire
+
+* ajout d'utilisateurs ?
+* supprimer des commits ?
