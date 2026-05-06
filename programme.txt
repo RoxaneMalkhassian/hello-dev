@@ -2,3 +2,4 @@
 
 * ajout d'utilisateurs ?
 * supprimer des commits ?
+* s'assurer du bon fonctionnement de tout !
